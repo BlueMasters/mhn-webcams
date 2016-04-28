@@ -4,7 +4,8 @@
 // @name        MHN-Webcams
 // @namespace   tag:damieng002@gmail.com,2015:MHN-Webcams
 // @include     http://appl.fr.ch/mhn_livecam/frame/livecam_*.htm
-// @version     1
+// @match       http://appl.fr.ch/mhn_livecam/frame/livecam_*.htm
+// @version     1.1
 // @grant       none
 // @require     https://code.jquery.com/jquery-2.2.3.min.js
 // ==/UserScript==
