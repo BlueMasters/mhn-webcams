@@ -1,9 +1,9 @@
-# mhn-webcams
+# MHN webcams
 
 This script fixes the annoying flickering effect on the [webcam pages](http://www.fr.ch/mhn/fr/pub/webcam.htm) of the "Musée d'histoire naturelle Fribourg".
 Currently, this script only works on Firefox. 
 
-## Installation guide
+## Installation guide for Firefox
 
 ### Install Firefox
 
@@ -15,7 +15,21 @@ This script works with the greasemonkey extension. Open this [link](https://addo
 
 ### Install the MHN Webcams script
 
-Finish the installation by clicking on the [latest release](https://github.com/BlueMasters/mhn-webcams/releases/download/1.0/mhn-webcams.user.js) of the MHN Webcams script.
+Finish the installation by clicking on the [latest release](https://github.com/BlueMasters/mhn-webcams/releases/download/1.1/mhn-webcams.user.js) of the MHN Webcams script.
+
+## Installation guide for Google Chrome
+
+### Install Chrome
+
+Please, visit the [Google Chrome web site](https://www.google.com/chrome) for detailed instructions.
+
+### Install TamperMonkey
+
+This script works with the tampermonkey extension. Open this [link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) in Google Chrome and click on "+ Add to Chrome"
+
+### Install the MHN Webcams script
+
+Finish the installation by clicking on the [last release](https://github.com/BlueMasters/mhn-webcams/raw/1.1/mhn-webcams.user.js) of the MHN Webcams script.
 
 ## Notes
 
