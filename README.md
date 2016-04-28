@@ -1,6 +1,6 @@
 # mhn-webcams
 
-This script fixes the annoying flickering effect on the webcam pages of the "Musée d'histoire naturelle Fribourg".
+This script fixes the annoying flickering effect on the [webcam pages](http://www.fr.ch/mhn/fr/pub/webcam.htm) of the "Musée d'histoire naturelle Fribourg".
 Currently, this script only works on Firefox. 
 
 ## Installation guide
